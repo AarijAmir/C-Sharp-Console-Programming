@@ -1,0 +1,7 @@
+F:\C# Console Projects\InterfaceImplemetation\InterfaceImplemetation\bin\Debug\InterfaceImplemetation.exe.config
+F:\C# Console Projects\InterfaceImplemetation\InterfaceImplemetation\bin\Debug\InterfaceImplemetation.exe
+F:\C# Console Projects\InterfaceImplemetation\InterfaceImplemetation\bin\Debug\InterfaceImplemetation.pdb
+F:\C# Console Projects\InterfaceImplemetation\InterfaceImplemetation\obj\Debug\InterfaceImplemetation.csproj.AssemblyReference.cache
+F:\C# Console Projects\InterfaceImplemetation\InterfaceImplemetation\obj\Debug\InterfaceImplemetation.csproj.CoreCompileInputs.cache
+F:\C# Console Projects\InterfaceImplemetation\InterfaceImplemetation\obj\Debug\InterfaceImplemetation.exe
+F:\C# Console Projects\InterfaceImplemetation\InterfaceImplemetation\obj\Debug\InterfaceImplemetation.pdb

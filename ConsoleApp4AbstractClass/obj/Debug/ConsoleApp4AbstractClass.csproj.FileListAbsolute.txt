@@ -1,0 +1,2 @@
+F:\Visual Studio C#\ConsoleApp4AbstractClass\obj\Debug\ConsoleApp4AbstractClass.csproj.AssemblyReference.cache
+F:\Visual Studio C#\ConsoleApp4AbstractClass\obj\Debug\ConsoleApp4AbstractClass.csproj.CoreCompileInputs.cache

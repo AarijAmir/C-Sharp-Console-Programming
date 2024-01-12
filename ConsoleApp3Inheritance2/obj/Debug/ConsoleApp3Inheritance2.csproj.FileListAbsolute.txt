@@ -1,0 +1,14 @@
+F:\Visual Studio C#\ConsoleApp3Inheritance2\bin\Debug\ConsoleApp3Inheritance2.exe.config
+F:\Visual Studio C#\ConsoleApp3Inheritance2\bin\Debug\ConsoleApp3Inheritance2.exe
+F:\Visual Studio C#\ConsoleApp3Inheritance2\bin\Debug\ConsoleApp3Inheritance2.pdb
+F:\Visual Studio C#\ConsoleApp3Inheritance2\obj\Debug\ConsoleApp3Inheritance2.csproj.AssemblyReference.cache
+F:\Visual Studio C#\ConsoleApp3Inheritance2\obj\Debug\ConsoleApp3Inheritance2.csproj.CoreCompileInputs.cache
+F:\Visual Studio C#\ConsoleApp3Inheritance2\obj\Debug\ConsoleApp3Inheritance2.exe
+F:\Visual Studio C#\ConsoleApp3Inheritance2\obj\Debug\ConsoleApp3Inheritance2.pdb
+F:\C# Console Projects\ConsoleApp3Inheritance2\bin\Debug\ConsoleApp3Inheritance2.exe.config
+F:\C# Console Projects\ConsoleApp3Inheritance2\bin\Debug\ConsoleApp3Inheritance2.exe
+F:\C# Console Projects\ConsoleApp3Inheritance2\bin\Debug\ConsoleApp3Inheritance2.pdb
+F:\C# Console Projects\ConsoleApp3Inheritance2\obj\Debug\ConsoleApp3Inheritance2.csproj.AssemblyReference.cache
+F:\C# Console Projects\ConsoleApp3Inheritance2\obj\Debug\ConsoleApp3Inheritance2.csproj.CoreCompileInputs.cache
+F:\C# Console Projects\ConsoleApp3Inheritance2\obj\Debug\ConsoleApp3Inheritance2.exe
+F:\C# Console Projects\ConsoleApp3Inheritance2\obj\Debug\ConsoleApp3Inheritance2.pdb
